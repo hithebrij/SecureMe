@@ -11,4 +11,4 @@ One-click Linux server hardening script and web GUI for automating basic securit
 
 ## Usage (CLI Script)
 ```bash
-curl -fsSL https://yourdomain.com/install-secureme.sh | bash
+curl -fsSL https://github.com/hithebrij/SecureMe/blob/main/secureme.sh | bash
