@@ -4,7 +4,7 @@
 # Author: Brijendra Pratap Singh
 
 SCRIPT_NAME="secureme.sh"
-REMOTE_URL="https://yourdomain.com/secureme.sh"  # or GitHub raw URL
+REMOTE_URL="https://github.com/hithebrij/SecureMe/blob/main/secureme.sh"  # or GitHub raw URL
 INSTALL_DIR="/usr/local/bin"
 BACKUP_DIR="$HOME/.secureme_backup"
 
